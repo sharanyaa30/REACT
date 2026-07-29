@@ -11,3 +11,5 @@
 - Mobile react native
 
 -- {username} evaluated expression
+
+-- data updates through hooks
